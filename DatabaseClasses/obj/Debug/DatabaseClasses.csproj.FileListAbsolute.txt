@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\bin\Debug\CakeClasses.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\bin\Debug\CakeClasses.pdb
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\obj\Debug\DatabaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\DatabaseClasses\obj\Debug\DatabaseClasses.pdb

@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\CPAN-151\CPAN155-Lab03-2\CakeClasses\obj\Debug\CakeClasses.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CPAN-151\CPAN155-Lab03-2\CakeClasses\obj\Debug\CakeClasses.Properties.Resources.resources
+C:\Users\User\Desktop\CPAN-151\CPAN155-Lab03-2\CakeClasses\obj\Debug\CakeClasses.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CPAN-151\CPAN155-Lab03-2\CakeClasses\obj\Debug\CakeClasses.csproj.CoreCompileInputs.cache

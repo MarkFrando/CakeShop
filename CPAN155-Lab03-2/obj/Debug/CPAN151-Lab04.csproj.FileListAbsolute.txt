@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN151-Lab04.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN155_Lab03_2.frmOrder.resources
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN155_Lab03_2.frmCustomer.resources
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN155_Lab03_2.Properties.Resources.resources
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN151-Lab04.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN151-Lab04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN155-Lab03-2.exe
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\obj\Debug\CPAN155-Lab03-2.pdb
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\CPAN155-Lab03-2.exe.config
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\CPAN155-Lab03-2.exe
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\CPAN155-Lab03-2.pdb
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\CakeClasses.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\CakeClasses.pdb
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\DatabaseClasses.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\CPAN-151\CPAN151-Lab04\CPAN155-Lab03-2\bin\Debug\DatabaseClasses.pdb
